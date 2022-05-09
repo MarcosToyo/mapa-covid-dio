@@ -11,7 +11,7 @@ function Main(){
 
     const [data, setData] = useState({})
 
-    const [country, setCountry] = useState('brazil')
+    const [country, setCountry] = useState('china')
 
     const updateAt = new Date().toLocaleString()
 
